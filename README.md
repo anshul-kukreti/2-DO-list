@@ -10,6 +10,10 @@ A responsive and interactive To-Do List web app built with HTML, CSS, and JavaSc
 - Interactive and responsive UI
 - Clean and simple design
 
+  🖼️ Preview
+
+<img src="./todo-preview.png" alt="To-Do List Preview">
+
 🛠️ Technologies Used
 
 - HTML5
